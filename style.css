@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.homePage{
+    background-image: url('https://t4.ftcdn.net/jpg/03/81/60/07/240_F_381600737_eLnABYbiMpJWY0sJAF8OEOaytr0jFQFk.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.mainHeading{
+    font-family: 'Roboto';
+    font-size: 40px;
+}
+
+.new{
+    color: blue;
+    border: 2px solid;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description{
+    font-family: 'Roboto Flex';
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.containerBorder{
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.subHeading{
+    font-family: 'Roboto Flex';
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.subHeading01{
+    font-family: 'Roboto Flex';
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
+}
+.instructionSection{
+    position: relative;
+}
+
+.instructionsToAll{
+    font-family: 'Roboto Flex';
+    font-size: 18px;
+}
+
+.heaingText{
+    font-family: 'Roboto Flex';
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.options{
+    font-family: 'Roboto Flex';
+    font-size: 20px;
+}
+
+.loginSection{
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.inputTypes{
+    height: 26px;
+}
+
+.link{
+    color: greenyellow;
+}
